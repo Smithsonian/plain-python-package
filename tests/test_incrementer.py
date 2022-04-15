@@ -1,5 +1,5 @@
 import pytest
-from package_boilerplate.incrementer import increment
+from plain_python_package.incrementer import increment
 
 
 def test_increment():
